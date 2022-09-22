@@ -463,6 +463,10 @@ ul li:not(:last-child) {
     position: relative;
     margin-top: 0;
   }
+  
+  .footer-img {
+    margin-top: 7rem;
+  }
 
   .newsletter {
     order: 1;
